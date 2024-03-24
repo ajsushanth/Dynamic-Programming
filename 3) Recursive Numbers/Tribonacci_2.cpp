@@ -1,3 +1,10 @@
+/*
+Statement#
+Tribonacci numbers are a sequence of numbers where each number
+is the sum of the three preceding numbers. 
+Your task is to find the nth Tribonacci number.
+*/
+
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -1,3 +1,11 @@
+/*
+Given a robot located at the top-left corner of an mxn matrix, determine the number 
+of unique paths the robot can take from start to finish while avoiding all obstacles 
+on the matrix.The robot can only move either down or right at any time.  
+The robot tries to reach the bottom-right corner of the matrix. 
+An obstacle is marked as 1, and an unoccupied space is marked as 0 in the matrix.
+*/
+
 #include <iostream>
 #include <vector>
 using namespace std;
